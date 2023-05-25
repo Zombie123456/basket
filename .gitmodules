@@ -1,0 +1,3 @@
+[submodule "spinach"]
+	path = spinach
+	url = https://github.com/Zombie123456/spinach.git
